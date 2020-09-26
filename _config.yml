@@ -1,0 +1,8 @@
+# Book settings
+title: 我的學習之旅~
+author: JeffWang
+logo: 迴歸.png
+
+latex:
+  latex_documents:
+    targetname: book.tex
